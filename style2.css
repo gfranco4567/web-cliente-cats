@@ -1,0 +1,14 @@
+p{
+  text-align: justify;
+}
+
+.afuera{
+  background-color: rgb(65, 144, 167);
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
